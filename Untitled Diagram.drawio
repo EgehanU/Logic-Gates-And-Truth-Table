@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T04:11:25.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="irPERd6lhX_hIigkwn2w" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T04:37:49.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L9bpffK_m_gV2ry57SR2" version="22.0.8" type="github">
   <diagram name="Page-1" id="wvBw6cIrtbNWeugEI8Je">
     <mxGraphModel dx="1687" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="1200" background="#000000" math="0" shadow="0">
       <root>
@@ -10,44 +10,98 @@
         <mxCell id="wRuJeH3qIURJGb9_1jIo-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="148" y="109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="111" y="362" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-43" value="USER&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;" style="rounded=1;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="18" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="129" y="513" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-50" value="BUTTON (SELECT)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="259" y="214" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-10" value="dfb" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="111" y="362" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-51" value="BUTTON (LEFT)" style="rounded=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="300" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="148" y="616" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-52" value="BUTTON (UP)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="257" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1058" y="464" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-55" value="BUTTON (LEFT)" style="rounded=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="300" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="769" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-56" value="BUTTON (RIGHT)" style="rounded=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="345" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="752" y="388" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-57" value="User choose coktail&#xa;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="154" y="349" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="373" y="253" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-60" value="DRINKS&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="18" y="409" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="958" y="229" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-61" value="SOLENOID VALVES" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="701" y="407" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="274" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-62" value="CUSTOM PRESTA VALVES" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="472" y="409" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="527" y="313" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-63" value="ATTACHMENT FOR DIFFERENT BOTTLES" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="262" y="407" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="899" y="316" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-64" value="PUMP" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="116" y="82" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRuJeH3qIURJGb9_1jIo-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1263" y="388" width="120" height="60" as="geometry" />
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-65" value="PIPE" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="256" y="797" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-66" value="RELEASE STEAM" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-67" value="PIPE" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="407" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-68" value="RELEASE COCKTAIL" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="349" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-69" value="VOLTAGE REGULATOR" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="262" y="579" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-70" value="RELEASE STEAM" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-71" value="PRESSURE AND TEMPERATURE SENSORS" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="713" y="696" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-72" value="BOILER" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="716" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-73" value="TEMPERATURE SENSOR" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="259" y="491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-74" value="ELECTRICAL POWER" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="13" y="577" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-75" value="WATER" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="18" y="801" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-76" value="RELAY" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="482" y="696" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-77" value="RELAY" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="918" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-78" value="RELAY" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-79" value="RELEASE STEAM" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-80" value="MICROCONTROLLER" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="918" y="407" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-81" value="PUMP" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="484" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-82" value="TURN -OFF BUTTON" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="918" y="138" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRuJeH3qIURJGb9_1jIo-83" value="PRESSURE RELEASE VALVE" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="944" y="795" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
